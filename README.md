@@ -1,4 +1,5 @@
-Hello World!![MuaKissGIF](https://github.com/user-attachments/assets/faed72a4-e545-4517-9398-2fafd864c72d)
+Hello World!
+![MuaKissGIF](https://github.com/user-attachments/assets/faed72a4-e545-4517-9398-2fafd864c72d)
 
 
 <!--
@@ -6,7 +7,7 @@ Hello World!![MuaKissGIF](https://github.com/user-attachments/assets/faed72a4-e5
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... APCSA
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a student at EPIC Campus and currently learning java through APCSA.
+Fun Fact: I'm a patriots fan! 🏈
