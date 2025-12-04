@@ -1,4 +1,5 @@
-## Hi there 👋
+Hello World!![MuaKissGIF](https://github.com/user-attachments/assets/faed72a4-e545-4517-9398-2fafd864c72d)
+
 
 <!--
 **Jamesg127/jamesg127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
