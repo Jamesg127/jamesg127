@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 -->
 I'm a student at EPIC Campus and currently learning java through APCSA.
 
+Programming Languages:
+
+Beginner Python
+
+A little more java
+
 Fun Fact: I'm a patriots fan! 🏈
